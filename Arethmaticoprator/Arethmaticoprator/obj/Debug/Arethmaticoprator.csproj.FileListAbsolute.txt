@@ -1,0 +1,7 @@
+C:\Users\dsara\OneDrive\Desktop\trupti\DotNet\c#\Console\Arethmaticoprator\Arethmaticoprator\bin\Debug\Arethmaticoprator.exe.config
+C:\Users\dsara\OneDrive\Desktop\trupti\DotNet\c#\Console\Arethmaticoprator\Arethmaticoprator\bin\Debug\Arethmaticoprator.exe
+C:\Users\dsara\OneDrive\Desktop\trupti\DotNet\c#\Console\Arethmaticoprator\Arethmaticoprator\bin\Debug\Arethmaticoprator.pdb
+C:\Users\dsara\OneDrive\Desktop\trupti\DotNet\c#\Console\Arethmaticoprator\Arethmaticoprator\obj\Debug\Arethmaticoprator.csproj.AssemblyReference.cache
+C:\Users\dsara\OneDrive\Desktop\trupti\DotNet\c#\Console\Arethmaticoprator\Arethmaticoprator\obj\Debug\Arethmaticoprator.csproj.CoreCompileInputs.cache
+C:\Users\dsara\OneDrive\Desktop\trupti\DotNet\c#\Console\Arethmaticoprator\Arethmaticoprator\obj\Debug\Arethmaticoprator.exe
+C:\Users\dsara\OneDrive\Desktop\trupti\DotNet\c#\Console\Arethmaticoprator\Arethmaticoprator\obj\Debug\Arethmaticoprator.pdb
